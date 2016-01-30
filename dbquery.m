@@ -8,7 +8,7 @@ function data=dbquery(query)
     for i=2:size(query,1)
        querystr=sprintf('%s,%s',querystr,query(i,:));
     end
-    command=sprintf('SELECT %s FROM COLLEGES order by UNITID asc',querystr);
+    command=sprintf('SELECT %s FROM COLLEGES where `CURROPER`=1 and `UGDS`>0 order by UNITID asc',querystr);
     
     data=fetch(conn,command);
     
