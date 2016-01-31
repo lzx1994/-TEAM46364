@@ -31,6 +31,7 @@ m=TotalMin(3:8)/sum(TotalMin)*lambda1;
 %%
 Sub=getPCIP;
 Sub=cell2mat(Sub);
+uid=Sub(:,1);
 Sub=Sub(:,2:4);
 TotalSub=round(sum(diag(TotalNum)*Sub));
 lambda2=0.8;
@@ -44,5 +45,5 @@ earning=cell2mat(temp(:,1));
 debt=cell2mat(temp(:,2));
 avr_price=cell2mat(temp(:,3:4));
 avr_price=sum(avr_price,2)+1;
-index=(avr_price~=-1|debt~=-1|earning~=-1);
+index=(avr_price~=-1&debt~=-1&earning~=-1);
 ROI=earning./(avr_price+debt);
