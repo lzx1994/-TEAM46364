@@ -1,0 +1,100 @@
+139995 &                      Gupton Jones College of Funeral Service & 3297.00 & 573678.00
+457484 &                          New Hope Christian College-Honolulu & 2920.19 & 367944.21
+372958 &                            Remington College-Honolulu Campus & 2183.49 & 1080825.46
+186131 &                                         Princeton University & 1664.11 & 8709977.36
+228486 &                               Southwestern Christian College & 1292.20 & 218381.80
+187912 &                                New Mexico Military Institute & 1236.40 & 581108.00
+101073 &                                    Concordia College Alabama & 1088.94 & 569513.32
+197027 &                        United States Merchant Marine Academy & 850.75 & 815013.99
+166027 &                                           Harvard University & 553.35 & 4027248.19
+182005 &                                   College of Southern Nevada & 381.81 & 11396405.83
+141574 &                                University of Hawaii at Manoa & 369.54 & 5209345.82
+141839 &                            University of Hawaii Maui College & 346.07 & 1229594.35
+141811 &                                    Leeward Community College & 313.69 & 1860832.99
+383190 &                                     Hawaii Community College & 290.32 & 848313.16
+141565 &                                 University of Hawaii at Hilo & 280.47 & 935379.01
+141680 &                                   Honolulu Community College & 231.51 & 794999.83
+182281 &                               University of Nevada-Las Vegas & 209.31 & 4760021.67
+141486 &                             Chaminade University of Honolulu & 195.47 & 364347.62
+141990 &                                   Windward Community College & 184.28 & 352158.36
+190512 &                                CUNY Bernard M Baruch College & 177.22 & 2427537.05
+223816 &                                        Central Texas College & 169.27 & 2721242.13
+122180 &                                      Sacramento City College & 156.12 & 3397907.31
+141796 &                                  Kapiolani Community College & 156.08 & 940403.44
+230746 &                                  Salt Lake Community College & 152.56 & 3736778.09
+113096 &                                       Cosumnes River College & 143.96 & 1850125.74
+448309 &  Shorter University-College of Adult & Professional Programs & 142.09 & 131009.52
+111920 &                                               Chabot College & 141.88 & 1714145.30
+230047 &                              Brigham Young University-Hawaii & 136.44 & 363468.68
+119605 &                                          National University & 110.58 & 1082315.87
+233772 &                                  Tidewater Community College & 107.48 & 2792526.58
+123800 &                                         Southwestern College & 99.43 & 1751113.78
+122791 &                                         College of San Mateo & 90.53 & 758426.54
+109208 &                                       American River College & 86.99 & 2377644.13
+210429 &                                    Western Oregon University & 85.77 & 441049.86
+110617 &                       California State University-Sacramento & 83.21 & 2162647.33
+141802 &                                      Kauai Community College & 80.42 & 100610.10
+141644 &                                    Hawaii Pacific University & 79.97 & 430740.26
+232946 &                          Northern Virginia Community College & 73.43 & 3274359.34
+230737 &                                       Utah Valley University & 67.24 & 1630034.36
+117645 &                                      Long Beach City College & 67.16 & 1509410.75
+230597 &                                                 Snow College & 61.31 & 187064.10
+110574 &                         California State University-East Bay & 61.01 & 736913.54
+163204 &                    University of Maryland-University College & 58.07 & 1510055.28
+230171 &                                       Dixie State University & 55.75 & 407249.39
+112190 &                                City College of San Francisco & 54.10 & 1334226.04
+133702 &                        Florida State College at Jacksonville & 50.32 & 1258978.69
+134130 &                                        University of Florida & 48.86 & 1580534.04
+122755 &                                    San Jose State University & 48.52 & 1248153.06
+190673 &                         CUNY Queensborough Community College & 48.36 & 694220.15
+190691 &                                            CUNY York College & 48.16 & 354488.35
+185536 &                                     Middlesex County College & 43.83 & 501072.41
+131520 &                                            Howard University & 43.58 & 298727.59
+114716 &                                             Foothill College & 42.52 & 568195.35
+188340 &                 Vaughn College of Aeronautics and Technology & 42.44 & 73041.22
+147800 &                                     Oakton Community College & 37.70 & 381160.82
+223463 &                              Remington College-Dallas Campus & 37.51 & 33907.87
+172635 &                      Wayne County Community College District & 36.37 & 498709.27
+112686 &                             El Camino College-Compton Center & 35.44 & 242618.56
+235237 &                            Pierce College at Fort Steilacoom & 35.30 & 155572.56
+163657 &                            Prince George's Community College & 34.60 & 448215.80
+117690 &                                   Los Angeles Harbor College & 34.00 & 296410.73
+190594 &                                          CUNY Hunter College & 32.25 & 506208.76
+198534 &                     Fayetteville Technical Community College & 32.11 & 342935.59
+123563 &                                     Solano Community College & 32.02 & 267114.08
+209807 &                                    Portland State University & 31.39 & 630524.92
+377564 &                       University of Washington-Tacoma Campus & 31.34 & 112415.53
+199102 &                        North Carolina A & T State University & 31.13 & 266960.75
+102553 &                               University of Alaska Anchorage & 31.08 & 407653.64
+133650 &               Florida Agricultural and Mechanical University & 30.61 & 270158.57
+117627 &                                         La Sierra University & 30.44 & 62715.67
+230603 &                                     Southern Utah University & 27.30 & 153438.08
+190655 &                     CUNY New York City College of Technology & 27.03 & 430189.24
+232982 &                                      Old Dominion University & 26.65 & 519192.33
+153250 &                                                Dordt College & 26.35 & 35260.56
+236188 &                                              Olympic College & 25.40 & 124435.71
+190646 &                                    CUNY Medgar Evers College & 24.81 & 150953.44
+209612 &                                           Pacific University & 24.56 & 42458.10
+179919 &                  Wentworth Military Academy & Junior College & 23.74 & 9471.73
+208646 &                                    Eastern Oregon University & 22.78 & 77941.89
+209825 &                                       University of Portland & 22.76 & 78933.84
+190600 &                    CUNY John Jay College of Criminal Justice & 22.49 & 288711.45
+235431 &                                   Highline Community College & 22.24 & 69093.11
+110361 &                                California Baptist University & 22.10 & 128110.27
+115728 &                                        Holy Names University & 21.48 & 17182.84
+113980 &                         El Camino Community College District & 20.32 & 451548.73
+122746 &                                        San Jose City College & 19.60 & 155977.99
+120184 &                               Notre Dame de Namur University & 19.44 & 23502.76
+230418 &                           Latter-day Saints Business College & 19.27 & 38386.64
+121707 &                                      College of the Redwoods & 19.25 & 49754.45
+229780 &                                   Wayland Baptist University & 18.95 & 80456.52
+208390 &                                  Chemeketa Community College & 18.55 & 192783.34
+120865 &                                        Pacific Union College & 18.16 & 29078.66
+191649 &                                           Hofstra University & 17.30 & 116740.38
+438151 &                               Stevens-Henager College-Murray & 16.23 & 38652.90
+184995 &                              Hudson County Community College & 16.10 & 140903.68
+235671 &                                      Bates Technical College & 15.37 & 16764.53
+234951 &                                Clover Park Technical College & 15.30 & 24980.59
+122375 &                                       San Diego Mesa College & 14.19 & 302524.57
+212054 &                                            Drexel University & 14.15 & 230042.47
+236452 &                                    Saint Martin's University & 13.66 & 17741.72
