@@ -21,5 +21,10 @@ temp2=A'*x2;
 -temp2(2:7)
 
 %%
-
-[x3,fval]=fminsearch('funmin_uncons',x1);
+% [x3,fval]=fminsearch('funmin_uncons',x1);
+%%
+%{
+options=optimset('GradObj','on','Hessian','on');
+A_exp=[
+x3=fmincon('funmin3',[x1;x1;x1;x1;x1],[A';A';A';A';A'],[b;b;b;b;b],[],[],zeros(5*N,1),[],[],options);
+%}
