@@ -1,0 +1,20 @@
+228802 &                             The University of Texas at Tyler & 4012.72 & 3699727.20\\
+210739 &                                           DeSales University & 3559.00 & 405726.00\\
+132903 &                                University of Central Florida & 3297.00 & 573678.00\\
+224271 &                          Dallas Institute of Funeral Service & 3142.60 & 21935347.99\\
+157401 &                                      Murray State University & 2809.80 & 20449724.39\\
+113537 &           Dell'Arte International School of Physical Theatre & 2511.40 & 3985591.80\\
+122889 &                                   Santa Barbara City College & 2418.89 & 13115225.59\\
+175829 &                                   Itawamba Community College & 1682.60 & 8806728.39\\
+156125 &                                     Wichita State University & 1489.77 & 3137453.71\\
+179043 &                                         Rockhurst University & 1308.60 & 17925202.80\\
+214041 &                      Millersville University of Pennsylvania & 1292.20 & 218381.80\\
+204468 &                                           Notre Dame College & 951.60 & 176046.00\\
+186186 &                                Rabbinical College of America & 855.00 & 819090.00\\
+176664 &                                        Baptist Bible College & 377.73 & 177532.29\\
+151306 &                               University of Southern Indiana & 355.20 & 563702.40\\
+110565 &                        California State University-Fullerton & 185.98 & 3169456.33\\
+227191 &                                           North Lake College & 175.60 & 147504.00\\
+227182 &                                     Lone Star College System & 172.60 & 91995.80\\
+176770 &                                                  Cox College & 106.95 & 238811.47\\
+130217 &                           Quinebaug Valley Community College & 97.00 & 363071.00\\
