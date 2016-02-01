@@ -3,7 +3,7 @@ load Init avr_price TotalNum Risk earning index
 NN=diag(TotalNum.*Risk.*earning*1.2);
 NN=NN(index,index);
 ss=sfunc(x,avr_price(index)/2);
-cost=sum(NN*ss);
+cost=-sum(NN*ss);
 if nargout>1
     g=gfunc(x,avr_price(index)/2);
     if nargout>2

@@ -1,13 +1,13 @@
 clear all;close all;clc;
 load Init
 %%
-f=-ROI(index);
+f=ROI(index);
 A=A(index,:);
 NN=diag(TotalNum.*Risk);
 NN=NN(index,index); %Num of each school
 N=sum(index);
 %%
-x1=linprog(NN'*f,A',b,[],[],zeros(N,1),avr_price(index)); % x1 is the money/person for each school 
+x1=linprog(-NN'*f,A',b,[],[],zeros(N,1),avr_price(index)); % x1 is the money/person for each school 
 figure;
 hist(x1,10);
 %%
