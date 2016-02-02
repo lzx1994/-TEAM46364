@@ -1,41 +1,66 @@
+\contentsline {paragraph}{}{\thepage }{section*.1}
+\contentsline {paragraph}{}{\thepage }{section*.2}
+\contentsline {paragraph}{}{\thepage }{section*.3}
+\contentsline {paragraph}{}{\thepage }{section*.4}
+\contentsline {paragraph}{}{\thepage }{section*.5}
+\contentsline {paragraph}{}{\thepage }{section*.6}
+\contentsline {paragraph}{}{\thepage }{section*.7}
+\contentsline {paragraph}{}{0}{section*.1}
+\contentsline {paragraph}{}{0}{section*.2}
+\contentsline {paragraph}{}{0}{section*.3}
+\contentsline {paragraph}{}{0}{section*.4}
+\contentsline {paragraph}{}{0}{section*.5}
+\contentsline {paragraph}{}{0}{section*.6}
+\contentsline {paragraph}{}{0}{section*.7}
 \contentsline {section}{\numberline {1}Introduction}{2}{section.1}
-\contentsline {paragraph}{}{2}{section*.1}
-\contentsline {paragraph}{}{2}{section*.2}
-\contentsline {paragraph}{}{2}{section*.3}
+\contentsline {paragraph}{}{2}{section*.8}
+\contentsline {paragraph}{}{2}{section*.9}
+\contentsline {paragraph}{}{2}{section*.10}
+\contentsline {paragraph}{}{2}{section*.11}
 \contentsline {section}{\numberline {2}Assumptions}{2}{section.2}
-\contentsline {paragraph}{}{2}{section*.4}
-\contentsline {paragraph}{}{2}{section*.5}
-\contentsline {paragraph}{}{2}{section*.6}
-\contentsline {paragraph}{}{2}{section*.7}
+\contentsline {paragraph}{}{2}{section*.12}
+\contentsline {paragraph}{}{2}{section*.13}
+\contentsline {paragraph}{}{2}{section*.14}
+\contentsline {paragraph}{}{2}{section*.15}
+\contentsline {paragraph}{}{3}{section*.16}
+\contentsline {paragraph}{}{3}{section*.17}
 \contentsline {section}{\numberline {3}The Simplified Model}{3}{section.3}
-\contentsline {subsection}{\numberline {3.1}The yield of investment}{3}{subsection.3.1}
-\contentsline {paragraph}{}{3}{section*.8}
-\contentsline {paragraph}{}{3}{section*.9}
-\contentsline {paragraph}{}{3}{section*.10}
-\contentsline {subsection}{\numberline {3.2}The risk of investment}{3}{subsection.3.2}
-\contentsline {paragraph}{}{3}{section*.11}
-\contentsline {subsection}{\numberline {3.3}Preferential policies for some social groups}{3}{subsection.3.3}
-\contentsline {paragraph}{}{3}{section*.12}
-\contentsline {subparagraph}{}{4}{section*.13}
-\contentsline {paragraph}{}{4}{section*.14}
-\contentsline {subparagraph}{}{4}{section*.15}
-\contentsline {paragraph}{}{4}{section*.16}
-\contentsline {section}{\numberline {4}The advanced model}{4}{section.4}
-\contentsline {paragraph}{}{4}{section*.17}
-\contentsline {paragraph}{}{4}{section*.18}
-\contentsline {paragraph}{}{5}{section*.19}
-\contentsline {subparagraph}{}{5}{section*.20}
-\contentsline {paragraph}{}{5}{section*.21}
-\contentsline {paragraph}{}{5}{section*.22}
-\contentsline {section}{\numberline {5}Analysis of the Problem}{5}{section.5}
-\contentsline {section}{\numberline {6}Calculating and Simplifying the Model }{7}{section.6}
-\contentsline {section}{\numberline {7}The Model Results}{7}{section.7}
-\contentsline {section}{\numberline {8}Validating the Model}{7}{section.8}
-\contentsline {section}{\numberline {9}Conclusions}{7}{section.9}
-\contentsline {section}{\numberline {10}A Summary}{7}{section.10}
-\contentsline {section}{\numberline {11}Evaluate of the Mode}{8}{section.11}
-\contentsline {section}{\numberline {12}Strengths and weaknesses}{8}{section.12}
-\contentsline {subsection}{\numberline {12.1}Strengths}{8}{subsection.12.1}
-\contentsline {section}{Appendices}{8}{section*.24}
-\contentsline {section}{Appendix \numberline {A}First appendix}{8}{Appendix.a.A}
-\contentsline {section}{Appendix \numberline {B}Second appendix}{9}{Appendix.a.B}
+\contentsline {subsection}{\numberline {3.1}The Requirements of the Model}{3}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}The Mathematical Definition of the Model}{3}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}The yield of investment}{3}{subsubsection.3.2.1}
+\contentsline {paragraph}{}{3}{section*.18}
+\contentsline {paragraph}{}{3}{section*.19}
+\contentsline {paragraph}{}{3}{section*.20}
+\contentsline {paragraph}{}{4}{section*.21}
+\contentsline {subsubsection}{\numberline {3.2.2}Constraints of the model}{4}{subsubsection.3.2.2}
+\contentsline {paragraph}{}{4}{section*.22}
+\contentsline {paragraph}{}{4}{section*.23}
+\contentsline {paragraph}{}{4}{section*.24}
+\contentsline {paragraph}{}{4}{section*.25}
+\contentsline {paragraph}{}{5}{section*.26}
+\contentsline {paragraph}{}{5}{section*.27}
+\contentsline {subsubsection}{\numberline {3.2.3}The Delineation and Modification}{5}{subsubsection.3.2.3}
+\contentsline {subsection}{\numberline {3.3}The Result of the Model}{5}{subsection.3.3}
+\contentsline {paragraph}{}{5}{section*.28}
+\contentsline {paragraph}{}{6}{section*.29}
+\contentsline {paragraph}{}{6}{section*.30}
+\contentsline {paragraph}{}{6}{section*.31}
+\contentsline {paragraph}{}{6}{section*.32}
+\contentsline {section}{\numberline {4}The Nonlinear Method}{7}{section.4}
+\contentsline {subsection}{\numberline {4.1}Additional Assumptions}{7}{subsection.4.1}
+\contentsline {paragraph}{}{7}{section*.33}
+\contentsline {paragraph}{}{7}{section*.34}
+\contentsline {paragraph}{}{7}{section*.35}
+\contentsline {paragraph}{}{7}{section*.36}
+\contentsline {paragraph}{}{8}{section*.37}
+\contentsline {subsection}{\numberline {4.2}The Model Analysis}{8}{subsection.4.2}
+\contentsline {paragraph}{}{9}{section*.38}
+\contentsline {subsection}{\numberline {4.3}The Result of the Model}{9}{subsection.4.3}
+\contentsline {section}{\numberline {5}Strength and Weakness}{9}{section.5}
+\contentsline {subsection}{\numberline {5.1}Strength}{9}{subsection.5.1}
+\contentsline {paragraph}{}{9}{section*.39}
+\contentsline {subsection}{\numberline {5.2}Weakness}{9}{subsection.5.2}
+\contentsline {paragraph}{}{9}{section*.40}
+\contentsline {paragraph}{}{9}{section*.41}
+\contentsline {section}{\numberline {6}Conclusion}{10}{section.6}
+\contentsline {section}{Appendices}{10}{section*.43}
